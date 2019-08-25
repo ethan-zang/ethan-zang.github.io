@@ -9,7 +9,8 @@ body{
   padding: 40px;
   text-align: center;
   margin: auto;
-  margin-top: 7%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   color: white;
   font-family: 'Lucida Grande',sans-serif;
 }
@@ -32,14 +33,15 @@ body{
   margin-bottom: 10px;
 }
 .box p{
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   color: #C4C8CA;
 }
 hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 3px solid #ccc;
+    border-top: 3px solid #56A9D2;
     margin: 1em 0;
     padding: 0;
 }
